@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="menu_action_popular">Popular</string>
+    <string name="menu_action_top_rated">Top Rated</string>
+    <string name="menu_action_upcoming">Upcoming</string>
+    <string name="error_message">No movies found</string>
+    <string name="title_activity_movie_detail">Details</string>
+    <string name="release_date">Release date:</string>
+    <string name="note">Note:</string>
+    <string name="share_subject">See this Movie</string>
+    <string name="share_title">Share via</string>
+
+</resources>
